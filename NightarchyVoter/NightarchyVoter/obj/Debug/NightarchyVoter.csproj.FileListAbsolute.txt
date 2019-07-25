@@ -1,0 +1,10 @@
+C:\Users\v-zaleon\source\repos\NightarchyVoter\NightarchyVoter\bin\Debug\NightarchyVoter.exe.config
+C:\Users\v-zaleon\source\repos\NightarchyVoter\NightarchyVoter\bin\Debug\NightarchyVoter.exe
+C:\Users\v-zaleon\source\repos\NightarchyVoter\NightarchyVoter\bin\Debug\NightarchyVoter.pdb
+C:\Users\v-zaleon\source\repos\NightarchyVoter\NightarchyVoter\bin\Debug\WebDriver.dll
+C:\Users\v-zaleon\source\repos\NightarchyVoter\NightarchyVoter\bin\Debug\WebDriver.xml
+C:\Users\v-zaleon\source\repos\NightarchyVoter\NightarchyVoter\obj\Debug\NightarchyVoter.csprojAssemblyReference.cache
+C:\Users\v-zaleon\source\repos\NightarchyVoter\NightarchyVoter\obj\Debug\NightarchyVoter.csproj.CoreCompileInputs.cache
+C:\Users\v-zaleon\source\repos\NightarchyVoter\NightarchyVoter\obj\Debug\NightarchyVoter.csproj.CopyComplete
+C:\Users\v-zaleon\source\repos\NightarchyVoter\NightarchyVoter\obj\Debug\NightarchyVoter.exe
+C:\Users\v-zaleon\source\repos\NightarchyVoter\NightarchyVoter\obj\Debug\NightarchyVoter.pdb
